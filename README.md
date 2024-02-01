@@ -1,4 +1,13 @@
 ### Hi there 👋
+## I am TrollFacedGamer
+<img src="img.trollFace.png">
+
+- 🔭 I’m currently working on my README.md for my GitHub
+- 🌱 I’m currently learning to code in Html, Css, and Js
+- 🤔 I’m looking for help with creting loops and linking code files togeter
+- 😄 Pronouns: (He/Him)
+- ⚡ Fun fact: I like to spend time in my head
+
 
 <!--
 **TrollFacedGamer/TrollFacedGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
